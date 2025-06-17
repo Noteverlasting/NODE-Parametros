@@ -1,0 +1,23 @@
+{
+  "name": "node_4express",
+  "version": "1.0.0",
+  "description": "Express con parámetros",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Noteverlasting/NODE-Parametros.git"
+  },
+  "keywords": [
+    "Node",
+    "Express"
+  ],
+  "author": "Omar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Noteverlasting/NODE-Parametros/issues"
+  },
+  "homepage": "https://github.com/Noteverlasting/NODE-Parametros#readme"
+}
